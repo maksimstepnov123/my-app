@@ -1,0 +1,17 @@
+.todo-list__task {
+    display: flex;
+    width: 80%;
+    border-bottom: 1px black solid;
+    padding-bottom: 4px;
+    gap: 4px;
+    align-items: center;
+}
+
+.todo-list__checkbox {}
+
+.todo-list__task-name {
+    word-wrap: break-word;
+    width: 75%;
+}
+
+.tolo-list__task-delete {}
